@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+google-genai
+python-docx
+pandas
+pillow
+python-dotenv
+python-multipart
